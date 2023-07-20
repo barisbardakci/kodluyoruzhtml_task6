@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color:rgb(221, 173, 100);
+    list-style-position: inside;
+    font-family: 'lugrasimo', 'cursive';
+    font-weight: 700;
+    text-align: center;  
+}
+h1 {
+    font-size: 40px;
+}
+
+header {
+    display: inline-block;
+}
+h1, h2, h3, h4 {
+    color: brown;
+}
